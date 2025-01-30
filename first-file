@@ -1,2 +1,3 @@
 Console.WriteLine("my name is Khair Muhammad Hamza");
 Console.WriteLine("roll number is: 24-ST-047");
+Console.WriteLine("second semester is : OOP, math,english");
